@@ -1,0 +1,2 @@
+fun_with_monatsbericht.py 52 2022-10-07 10:52:10,166 INFO Create report for 12
+connect_2_influx_db.py 39 2022-10-07 10:52:10,167 INFO Seconds in month: 2678400
